@@ -1,1 +1,1 @@
-# rootcalculator
+This project is a Root Calculator built to find the root of any algebraic or trigonometric expression entered by the user, accurate to the specified number of decimal places. It uses the Newton-Raphson method to approximate the root based on the user’s function and desired precision.
